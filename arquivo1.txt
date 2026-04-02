@@ -2,3 +2,4 @@ Faculdade Uniesp
 Curso: Ciências da Computação
 Rubens Gabriel Natividade de Castro Silva
 Tópicos Essenciais para Programação
+Respondendo a lista de exercício do GitHub
